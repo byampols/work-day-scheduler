@@ -128,6 +128,6 @@ setInterval(function() {
     $(".container .time-block").each(function(index, el) {
             auditWorkDay(el);
         });
-    }, 1000 * 30);
+    }, 1000 * 5);
 
-setInterval(loadDate, 1000 * 60 * 5);
+setInterval(loadDate, 1000 * 60);

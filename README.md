@@ -10,8 +10,8 @@ Deployed application: [the deployed application](https://byampols.github.io/work
 
 ## Usage 
 
-* The current date is updated every 5 minutes
-* The current time is updated every 30 seconds (this affects the color of the boxes)
+* The current date is updated every 1 minute
+* The current time is updated every 5 seconds (this affects the color of the boxes)
     * Greyed out boxes are in the past
     * The red box is the current time
     * The green boxes are in the future
